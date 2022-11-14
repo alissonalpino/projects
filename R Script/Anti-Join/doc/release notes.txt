@@ -1,0 +1,6 @@
+RELEASE NOTES
+
+__________________________
+Ver |   Data   | Comentário
+__________________________
+1.0 | 14/11/22 | First official git version.
